@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|d:\\kand\u00F3\\git14e\\autotraderapi\\autotraderapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|solutionrelative:autotraderapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|d:\\kand\u00F3\\git14e\\autotraderapi\\autotraderapi\\models\\autotradercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|solutionrelative:autotraderapi\\models\\autotradercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|d:\\kand\u00F3\\git14e\\autotraderapi\\autotraderapi\\models\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|solutionrelative:autotraderapi\\models\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|d:\\kand\u00F3\\git14e\\autotraderapi\\autotraderapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E692B4-EF7C-4AFA-8EC0-8FD20BBD9AD3}|AutotraderApi\\AutotraderApi.csproj|solutionrelative:autotraderapi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutotraderContext.cs",
+              "DocumentMoniker": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\AutotraderContext.cs",
+              "RelativeDocumentMoniker": "AutotraderApi\\Models\\AutotraderContext.cs",
+              "ToolTip": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\AutotraderContext.cs",
+              "RelativeToolTip": "AutotraderApi\\Models\\AutotraderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:44:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AutotraderApi\\Models\\Car.cs",
+              "ToolTip": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\Car.cs",
+              "RelativeToolTip": "AutotraderApi\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:27:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dto.cs",
+              "DocumentMoniker": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\Dtos\\Dto.cs",
+              "RelativeDocumentMoniker": "AutotraderApi\\Models\\Dtos\\Dto.cs",
+              "ToolTip": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Models\\Dtos\\Dto.cs",
+              "RelativeToolTip": "AutotraderApi\\Models\\Dtos\\Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:24:59.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "AutotraderApi\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\Kand\u00F3\\Git14E\\AutotraderApi\\AutotraderApi\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "AutotraderApi\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:11:24.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
